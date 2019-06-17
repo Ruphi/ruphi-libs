@@ -1,0 +1,22 @@
+{
+  "name": "ruphi-libs",
+  "version": "1.0.0",
+  "description": "ruphi's javascript libs",
+  "main": "doublyLinkedList.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruphi/ruphi-libs.git"
+  },
+  "keywords": [
+    "library"
+  ],
+  "author": "ruphi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruphi/ruphi-libs/issues"
+  },
+  "homepage": "https://github.com/ruphi/ruphi-libs#readme"
+}
